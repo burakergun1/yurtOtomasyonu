@@ -1,0 +1,1 @@
+veritabanı tablolarını bacpac dosyası sayesinde erişebilirsiniz. 
